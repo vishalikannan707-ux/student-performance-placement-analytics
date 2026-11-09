@@ -1,0 +1,201 @@
+student_id,name,age,gender,department,marks,attendance,study_hours,placement_status
+1,Rahul_1,22,Female,EEE,39,84.23,6.6,Not Placed
+2,Swetha_2,22,Male,CSE,67,54.39,4.0,Not Placed
+3,Sanjay_3,20,Female,IT,99,56.94,8.4,Not Placed
+4,Karthik_4,22,Male,ECE,52,50.14,4.3,Not Placed
+5,Ajay_5,21,Female,CSE,83,55.83,1.3,Not Placed
+6,Meena_6,22,Male,ECE,45,73.66,8.5,Not Placed
+7,Sanjay_7,20,Female,AI&ML,60,80.31,4.1,Not Placed
+8,Kavin_8,20,Male,CSE,97,89.71,8.0,Placed
+9,Rahul_9,21,Female,IT,93,55.33,4.3,Not Placed
+10,Nithya_10,19,Female,CSE,61,92.54,8.7,Not Placed
+11,Vijay_11,19,Male,CSE,83,87.3,3.0,Placed
+12,Rahul_12,22,Male,CSE,67,70.43,9.8,Not Placed
+13,Ajay_13,18,Female,CSE,35,96.65,8.0,Not Placed
+14,Ajay_14,22,Male,ECE,55,99.55,2.0,Not Placed
+15,Meena_15,21,Female,AI&ML,89,60.25,6.1,Not Placed
+16,Kavin_16,21,Male,EEE,40,68.96,9.9,Not Placed
+17,Swetha_17,21,Female,CSE,39,96.32,5.2,Not Placed
+18,Meena_18,21,Female,IT,37,86.08,2.6,Not Placed
+19,Meena_19,21,Female,CSE,87,52.4,5.4,Not Placed
+20,Vijay_20,20,Female,IT,57,89.08,5.6,Not Placed
+21,Divya_21,19,Female,ECE,87,91.4,7.7,Placed
+22,Kavin_22,21,Female,IT,71,87.53,7.3,Placed
+23,Priya_23,18,Male,EEE,51,89.98,4.6,Not Placed
+24,Meena_24,18,Male,AI&ML,35,91.26,3.0,Not Placed
+25,Keerthi_25,18,Male,IT,85,59.32,6.8,Not Placed
+26,Anu_26,18,Female,IT,79,61.78,4.8,Not Placed
+27,Divya_27,20,Female,AI&ML,38,81.69,2.2,Not Placed
+28,Priya_28,18,Female,EEE,96,95.39,9.1,Placed
+29,Keerthi_29,21,Female,CSE,99,65.81,7.2,Not Placed
+30,Kavin_30,22,Male,IT,66,79.42,7.1,Placed
+31,Arun_31,18,Male,AI&ML,68,84.15,8.4,Placed
+32,Keerthi_32,20,Female,ECE,73,72.6,5.8,Not Placed
+33,Nithya_33,20,Male,AI&ML,60,85.69,8.3,Not Placed
+34,Divya_34,18,Male,ECE,68,94.98,5.5,Placed
+35,Sanjay_35,22,Female,EEE,88,81.21,1.6,Placed
+36,Keerthi_36,18,Male,CSE,37,76.99,4.6,Not Placed
+37,Hari_37,20,Female,AI&ML,84,71.94,5.5,Not Placed
+38,Arun_38,19,Male,IT,46,78.87,7.5,Not Placed
+39,Ajay_39,21,Female,EEE,99,67.77,2.0,Not Placed
+40,Ajay_40,20,Female,AI&ML,88,69.57,2.3,Not Placed
+41,Karthik_41,18,Female,IT,39,76.59,3.4,Not Placed
+42,Nithya_42,21,Female,AI&ML,91,53.33,3.4,Not Placed
+43,Keerthi_43,18,Male,ECE,51,61.45,7.6,Not Placed
+44,Keerthi_44,18,Female,AI&ML,81,77.14,3.3,Placed
+45,Karthik_45,19,Female,AI&ML,57,71.58,6.7,Not Placed
+46,Anu_46,21,Female,AI&ML,48,66.64,5.4,Not Placed
+47,Anu_47,21,Male,EEE,100,86.53,6.2,Placed
+48,Karthik_48,19,Female,AI&ML,85,84.69,8.5,Placed
+49,Anu_49,20,Male,IT,72,58.34,4.6,Not Placed
+50,Vijay_50,18,Female,ECE,98,93.93,7.9,Placed
+51,Keerthi_51,22,Male,ECE,72,74.77,4.8,Not Placed
+52,Rahul_52,18,Male,AI&ML,84,87.07,4.2,Placed
+53,Swetha_53,18,Female,EEE,64,78.66,9.6,Not Placed
+54,Hari_54,20,Male,EEE,85,99.88,2.7,Placed
+55,Vijay_55,18,Female,IT,97,87.62,1.8,Placed
+56,Kavin_56,19,Female,AI&ML,86,85.35,7.9,Placed
+57,Vijay_57,19,Female,ECE,72,88.93,1.6,Placed
+58,Rahul_58,21,Male,EEE,64,57.16,8.5,Not Placed
+59,Kavin_59,22,Male,AI&ML,85,60.23,4.9,Not Placed
+60,Hari_60,18,Female,EEE,39,85.7,9.2,Not Placed
+61,Rahul_61,18,Female,EEE,63,74.7,7.5,Not Placed
+62,Priya_62,20,Male,ECE,38,87.73,6.5,Not Placed
+63,Swetha_63,19,Female,CSE,44,55.15,9.5,Not Placed
+64,Hari_64,22,Female,IT,90,76.82,4.6,Placed
+65,Keerthi_65,21,Female,IT,51,68.94,9.6,Not Placed
+66,Anu_66,19,Male,ECE,51,72.85,2.2,Not Placed
+67,Priya_67,21,Male,EEE,68,80.2,5.4,Placed
+68,Nithya_68,20,Male,AI&ML,40,75.11,3.4,Not Placed
+69,Hari_69,20,Female,EEE,87,76.99,5.9,Placed
+70,Nithya_70,18,Female,ECE,100,74.32,2.5,Not Placed
+71,Kavin_71,22,Female,IT,77,70.45,8.6,Not Placed
+72,Priya_72,21,Male,EEE,57,88.59,8.6,Not Placed
+73,Swetha_73,19,Female,IT,89,50.61,9.6,Not Placed
+74,Keerthi_74,20,Female,AI&ML,50,79.92,2.4,Not Placed
+75,Karthik_75,18,Female,IT,42,78.28,6.6,Not Placed
+76,Keerthi_76,18,Female,IT,38,85.81,5.3,Not Placed
+77,Rahul_77,21,Male,CSE,38,79.95,4.1,Not Placed
+78,Keerthi_78,20,Male,CSE,90,91.34,4.2,Placed
+79,Sanjay_79,22,Female,CSE,59,97.95,4.7,Not Placed
+80,Meena_80,20,Male,IT,61,67.13,7.3,Not Placed
+81,Karthik_81,21,Male,ECE,66,61.37,6.4,Not Placed
+82,Vijay_82,21,Female,IT,84,71.18,5.1,Not Placed
+83,Anu_83,20,Female,ECE,95,64.4,1.7,Not Placed
+84,Arun_84,21,Male,ECE,85,80.75,1.7,Placed
+85,Swetha_85,20,Female,CSE,53,95.59,1.0,Not Placed
+86,Priya_86,19,Male,EEE,55,56.96,9.7,Not Placed
+87,Meena_87,20,Female,AI&ML,39,55.04,1.0,Not Placed
+88,Swetha_88,20,Male,CSE,76,62.8,1.9,Not Placed
+89,Priya_89,21,Female,CSE,95,86.3,3.8,Placed
+90,Anu_90,21,Male,EEE,56,79.65,8.3,Not Placed
+91,Divya_91,18,Male,AI&ML,55,55.11,9.7,Not Placed
+92,Divya_92,18,Male,IT,35,95.94,8.1,Not Placed
+93,Nithya_93,19,Female,IT,39,89.5,7.2,Not Placed
+94,Swetha_94,18,Male,CSE,46,51.15,5.7,Not Placed
+95,Divya_95,20,Male,AI&ML,80,82.57,1.8,Placed
+96,Sanjay_96,21,Female,CSE,68,88.56,9.6,Placed
+97,Karthik_97,18,Female,ECE,83,68.72,7.8,Not Placed
+98,Priya_98,18,Male,CSE,79,53.45,6.8,Not Placed
+99,Nithya_99,19,Male,CSE,61,53.87,7.8,Not Placed
+100,Keerthi_100,19,Female,IT,60,55.21,7.5,Not Placed
+101,Priya_101,20,Female,IT,81,92.02,6.7,Placed
+102,Nithya_102,21,Female,IT,90,95.53,9.8,Placed
+103,Anu_103,19,Female,ECE,97,56.14,9.1,Not Placed
+104,Swetha_104,18,Female,IT,82,61.8,6.8,Not Placed
+105,Anu_105,21,Male,AI&ML,95,58.28,7.2,Not Placed
+106,Karthik_106,21,Female,EEE,60,59.32,1.5,Not Placed
+107,Karthik_107,18,Male,AI&ML,70,91.87,7.0,Placed
+108,Meena_108,19,Male,AI&ML,35,66.61,1.4,Not Placed
+109,Anu_109,18,Male,IT,42,65.57,6.3,Not Placed
+110,Rahul_110,21,Female,EEE,86,61.37,10.0,Not Placed
+111,Keerthi_111,22,Male,EEE,81,80.39,6.0,Placed
+112,Hari_112,22,Male,EEE,90,68.97,5.3,Not Placed
+113,Anu_113,20,Female,ECE,48,87.21,3.8,Not Placed
+114,Meena_114,18,Male,IT,62,60.28,2.1,Not Placed
+115,Kavin_115,18,Male,EEE,36,89.39,7.6,Not Placed
+116,Sanjay_116,20,Female,ECE,60,80.19,2.7,Not Placed
+117,Priya_117,20,Male,CSE,48,55.71,2.0,Not Placed
+118,Karthik_118,20,Male,CSE,93,70.73,4.8,Not Placed
+119,Kavin_119,21,Male,ECE,90,93.18,8.2,Placed
+120,Meena_120,18,Female,ECE,41,96.15,7.7,Not Placed
+121,Nithya_121,21,Female,IT,37,73.29,1.5,Not Placed
+122,Hari_122,20,Female,IT,57,74.04,5.1,Not Placed
+123,Keerthi_123,18,Male,CSE,52,95.92,5.7,Not Placed
+124,Keerthi_124,21,Male,EEE,72,79.35,6.8,Placed
+125,Keerthi_125,21,Female,CSE,49,51.64,6.9,Not Placed
+126,Sanjay_126,20,Male,EEE,98,95.64,4.3,Placed
+127,Hari_127,18,Male,EEE,62,62.41,6.0,Not Placed
+128,Sanjay_128,20,Female,IT,73,78.88,5.3,Placed
+129,Karthik_129,18,Female,AI&ML,91,58.28,9.0,Not Placed
+130,Sanjay_130,22,Male,AI&ML,51,51.69,5.8,Not Placed
+131,Arun_131,19,Male,ECE,78,65.57,5.0,Not Placed
+132,Hari_132,19,Male,IT,59,89.02,4.6,Not Placed
+133,Rahul_133,19,Female,EEE,51,63.88,6.2,Not Placed
+134,Hari_134,20,Female,AI&ML,47,61.0,8.2,Not Placed
+135,Meena_135,22,Female,EEE,59,60.63,5.8,Not Placed
+136,Arun_136,18,Female,AI&ML,44,75.76,7.0,Not Placed
+137,Keerthi_137,21,Male,AI&ML,52,98.78,7.6,Not Placed
+138,Meena_138,18,Female,AI&ML,68,72.95,5.7,Not Placed
+139,Meena_139,21,Female,IT,42,77.87,4.8,Not Placed
+140,Karthik_140,18,Female,CSE,74,93.03,8.9,Placed
+141,Ajay_141,22,Female,EEE,76,76.75,4.8,Placed
+142,Vijay_142,21,Female,IT,75,59.22,5.2,Not Placed
+143,Arun_143,20,Male,IT,40,64.98,9.9,Not Placed
+144,Meena_144,18,Male,IT,86,65.5,1.0,Not Placed
+145,Vijay_145,18,Female,IT,60,69.87,2.7,Not Placed
+146,Vijay_146,21,Male,IT,98,71.34,4.5,Not Placed
+147,Arun_147,20,Female,ECE,93,89.99,9.4,Placed
+148,Ajay_148,20,Female,EEE,90,67.47,1.6,Not Placed
+149,Kavin_149,22,Male,IT,93,73.41,1.1,Not Placed
+150,Nithya_150,20,Male,EEE,67,81.25,1.5,Placed
+151,Rahul_151,20,Female,ECE,87,68.89,1.8,Not Placed
+152,Nithya_152,20,Female,ECE,56,91.83,1.3,Not Placed
+153,Hari_153,19,Female,EEE,55,79.37,5.3,Not Placed
+154,Keerthi_154,22,Male,AI&ML,38,64.7,6.2,Not Placed
+155,Rahul_155,18,Female,CSE,96,85.7,3.4,Placed
+156,Hari_156,21,Female,AI&ML,96,76.38,4.6,Placed
+157,Meena_157,18,Female,AI&ML,58,76.72,1.8,Not Placed
+158,Keerthi_158,22,Male,AI&ML,89,74.05,4.0,Not Placed
+159,Priya_159,21,Female,IT,43,74.85,5.7,Not Placed
+160,Arun_160,22,Female,ECE,37,88.27,7.6,Not Placed
+161,Rahul_161,20,Male,AI&ML,65,55.15,1.0,Not Placed
+162,Rahul_162,21,Female,ECE,74,66.72,5.2,Not Placed
+163,Anu_163,20,Female,EEE,70,53.78,3.7,Not Placed
+164,Meena_164,18,Male,CSE,58,87.66,8.7,Not Placed
+165,Kavin_165,18,Female,EEE,40,63.62,7.4,Not Placed
+166,Vijay_166,21,Male,EEE,100,94.87,6.3,Placed
+167,Keerthi_167,21,Male,IT,38,76.33,3.5,Not Placed
+168,Meena_168,22,Female,CSE,40,90.04,9.2,Not Placed
+169,Divya_169,22,Female,EEE,85,98.95,1.4,Placed
+170,Ajay_170,20,Female,EEE,96,91.99,2.0,Placed
+171,Vijay_171,21,Female,CSE,91,93.35,4.5,Placed
+172,Arun_172,18,Male,CSE,100,70.4,2.1,Not Placed
+173,Vijay_173,22,Female,EEE,42,77.59,9.6,Not Placed
+174,Kavin_174,22,Male,CSE,60,62.69,8.2,Not Placed
+175,Karthik_175,18,Female,EEE,85,59.81,3.3,Not Placed
+176,Anu_176,22,Female,EEE,79,75.28,6.3,Placed
+177,Vijay_177,20,Female,IT,78,79.75,9.8,Placed
+178,Arun_178,21,Male,AI&ML,39,66.96,9.0,Not Placed
+179,Kavin_179,18,Female,EEE,60,78.47,6.4,Not Placed
+180,Nithya_180,21,Female,ECE,53,94.37,9.1,Not Placed
+181,Rahul_181,22,Female,AI&ML,54,77.84,9.9,Not Placed
+182,Karthik_182,22,Female,AI&ML,46,86.04,7.7,Not Placed
+183,Anu_183,18,Male,AI&ML,81,90.27,1.6,Placed
+184,Rahul_184,20,Female,IT,35,99.44,4.6,Not Placed
+185,Ajay_185,19,Male,EEE,48,80.16,8.5,Not Placed
+186,Hari_186,18,Male,IT,98,90.34,3.1,Placed
+187,Karthik_187,19,Male,EEE,72,98.13,8.5,Placed
+188,Karthik_188,19,Male,IT,71,97.22,2.1,Placed
+189,Nithya_189,20,Male,IT,45,57.05,1.4,Not Placed
+190,Nithya_190,19,Male,ECE,37,70.32,4.5,Not Placed
+191,Keerthi_191,19,Female,IT,67,66.2,1.3,Not Placed
+192,Sanjay_192,20,Male,CSE,40,54.35,9.6,Not Placed
+193,Vijay_193,19,Male,ECE,84,81.66,8.4,Placed
+194,Karthik_194,19,Male,IT,44,86.8,8.2,Not Placed
+195,Rahul_195,19,Female,AI&ML,39,92.41,6.7,Not Placed
+196,Arun_196,18,Female,CSE,57,56.14,2.9,Not Placed
+197,Swetha_197,18,Male,CSE,44,93.82,5.7,Not Placed
+198,Sanjay_198,18,Female,CSE,78,82.15,6.4,Placed
+199,Swetha_199,20,Male,ECE,36,85.2,5.7,Not Placed
+200,Anu_200,22,Male,IT,47,95.53,3.3,Not Placed
